@@ -29,13 +29,19 @@ In manual operation, all valves are operated by the operator.
 
 When the steam valve is open, the reactor temperature rises by 5° per second with an initial temperature of 20°.
 # Task:
--Provide process supervision with synoptics that visualize the real-time state.
--Plot the temperature evolution curve of the reactor.
--Plot the level curve of the reactor.
--Plot the level curve of the storage.
--Generate an alarm when the storage level exceeds 4000 liters.
--Generate an alarm when the reactor temperature exceeds 60°C.
--Propose a solution to store the dynamic process values with a 1-second sampling rate in an external file and in a database.
+Provide process supervision with synoptics that visualize the real-time state.
+
+Plot the temperature evolution curve of the reactor.
+
+Plot the level curve of the reactor.
+
+Plot the level curve of the storage.
+
+Generate an alarm when the storage level exceeds 4000 liters.
+
+Generate an alarm when the reactor temperature exceeds 60°C.
+
+Propose a solution to store the dynamic process values with a 1-second sampling rate in an external file and in a database.
 
 
 
