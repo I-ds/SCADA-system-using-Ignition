@@ -1,5 +1,5 @@
 # software: Ignition SCADA ver 8.1
-# used perspective module.
+
 # Export project zip and tags.json file to ignition.
 # Data Logging: CSV file, MySQL db
 # process description:
